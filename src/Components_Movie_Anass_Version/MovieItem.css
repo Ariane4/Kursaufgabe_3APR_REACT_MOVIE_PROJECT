@@ -1,0 +1,12 @@
+article{
+    text-align: center;
+    padding: 10px;
+    background: #333333;
+    color: #dddddd;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
